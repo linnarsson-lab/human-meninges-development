@@ -1,4 +1,4 @@
-## Loom files for download
+# Loom files for download
 
 For a description of the loom file format see [loompy.org](https://loompy.org)
 
