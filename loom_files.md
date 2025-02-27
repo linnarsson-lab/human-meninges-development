@@ -17,3 +17,11 @@ Single cell RNA-seq of meningiomas:
 | MSC5       | [Meningioma_MSC5.loom](https://https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC5.loom) | [Meningioma_MSC5.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC5.agg.loom) |
 | MSC6       | [Meningioma_MSC6.loom](https://https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC6.loom) | [Meningioma_MSC6.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC6.agg.loom) |
 | All Fibroblasts | [Meningioma_FB.loom](https://https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_FB.loom) | [Meningioma_FB.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_FB.agg.loom) |
+
+Xenium spatial transcriptomics data:
+
+| Target | Loom file |
+| ------ | --------- |
+| PCW 6 | [HumanMeningesDev_Xenium_pcw9_final_clusters_EE_dev_HE27.loom](https://storage.googleapis.com/linnarsson-lab-loom/HumanMeningesDev_Xenium_pcw6_final_clusters_EE_dev_HE27.loom) |
+| PCW 9 | [HumanMeningesDev_Xenium_pcw9_final_clusters_EE_dev_HE24-Men.loom](https://storage.googleapis.com/linnarsson-lab-loom/HumanMeningesDev_Xenium_pcw9_final_clusters_EE_dev_HE24-Men.loom) |
+
