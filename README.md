@@ -1,7 +1,11 @@
 # human-meninges-development
 Supplementary code and data to our study of the developing human meninges by Vinsland et al. (manuscript in preparation).
 
-### Data
+## Preprint (bioRxiv)
+
+## Browser
+
+## Data availability
 
 Complete count matrices for the developing meninges and meningiomas are available as loom files [here](loom_files.md).
 
