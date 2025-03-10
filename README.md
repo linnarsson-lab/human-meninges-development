@@ -3,6 +3,8 @@ Supplementary code and data to our study of the developing human meninges by Vin
 
 ## Preprint (bioRxiv)
 
+TBA
+
 ## Browser
 
 Visualizations of the complete dataset, as well as cell specific subsets, are browsable at [CELLxGENE](https://cellxgene.cziscience.com/collections/7d66d871-091f-4602-9f42-85f86d2853e0).
@@ -25,6 +27,6 @@ BAM files are available from the European Genome/Phenome Archive (https://ega-ar
 
 ## Code used for analysis and visualisation
 
-- Clustering was performed using cytograph. Installation and usage are described [here]([[url](https://github.com/linnarsson-lab/adult-human-brain/tree/main/cytograph)]). 
+- Clustering was performed using cytograph. Installation and usage are described [here](https://github.com/linnarsson-lab/adult-human-brain/tree/main/cytograph). 
 - notebooks: the code used to make figures
 
