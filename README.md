@@ -7,7 +7,7 @@ TBA
 
 ## Browser
 
-Visualizations of the complete dataset, as well as cell specific subsets, are browsable at [CELLxGENE](https://cellxgene.cziscience.com/collections/7d66d871-091f-4602-9f42-85f86d2853e0).
+Visualizations of the complete dataset, as well as cell type specific subsets ("Superclasses"), are browsable at [CELLxGENE](https://cellxgene.cziscience.com/collections/7d66d871-091f-4602-9f42-85f86d2853e0).
 
 ## Data availability
 
