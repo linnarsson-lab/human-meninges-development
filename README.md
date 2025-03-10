@@ -25,6 +25,6 @@ BAM files are available from the European Genome/Phenome Archive (https://ega-ar
 
 ## Code used for analysis and visualisation
 
-- Clustering was performed using cytograph. Installation and usage are described [here]([url](https://github.com/linnarsson-lab/adult-human-brain/tree/main/cytograph)). 
+- Clustering was performed using cytograph. Installation and usage are described [here]([[url](https://github.com/linnarsson-lab/adult-human-brain/tree/main/cytograph)]). 
 - notebooks: the code used to make figures
 
