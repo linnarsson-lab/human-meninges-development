@@ -13,7 +13,7 @@ Visualizations of the complete dataset, as well as cell type specific subsets ("
 
 ### Raw sequence reads
 
-BAM files are available from the European Genome/Phenome Archive (https://ega-archive.org/) under accession number TBA. 
+BAM files will be available from the European Genome/Phenome Archive (https://ega-archive.org/) under accession number TBA. 
 
 ### Expression matrices
 
@@ -27,6 +27,6 @@ BAM files are available from the European Genome/Phenome Archive (https://ega-ar
 
 ## Code used for analysis and visualisation
 
-- Clustering was performed using cytograph. Installation and usage are described [here](https://github.com/linnarsson-lab/adult-human-brain/tree/main/cytograph). 
-- notebooks: the code used to make figures
+- Clustering was performed using the cytograph-dev flavour of cytograph. This is the version used for our adult human brain project. Its installation and usage are described [here](https://github.com/linnarsson-lab/adult-human-brain/tree/main/cytograph). 
+- [Jupyter](https://jupyter.org/) notebooks used to make figures are available [here](notebooks). The notebooks also import from cytograph-dev. (cytograph-shoji will *not* work).
 
