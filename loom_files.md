@@ -4,16 +4,16 @@ For a description of the loom file format see [loompy.org](https://loompy.org)
 
 ## Single cell RNA-seq of the human developing meninges:
 
-| Cell type | Individual cells | Aggregated by cluster |
-| --------- | ---------------- | --------------------- |
-| Complete dataset | [HumanMeningesDev_All_cells.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_All_cells.loom) | [HumanMeningesDev_All_cells.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_All_cells.agg.loom) |
-| Erythropoietic | [HumanMeningesDev_Erythropoietic.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Erythropoietic.loom) | [HumanMeningesDev_Erythropoietic.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Erythropoietic.agg.loom) |
-| Immune | [HumanMeningesDev_Immune.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Immune.loom) | [HumanMeningesDev_Immune.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Immune.agg.loom) |
-| Vascular_endothelial | [HumanMeningesDev_Vascular_endothelial.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Vascular_endothelial.loom) | [HumanMeningesDev_Vascular_endothelial.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Vascular_endothelial.agg.loom) |
-| Vascular_perivascular | [HumanMeningesDev_Vascular_perivascular.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Vascular_perivascular.loom) |[HumanMeningesDev_Vascular_perivascular.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Vascular_perivascular.agg.loom) |
-| Neural | [HumanMeningesDev_Neural.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Neural.loom) | [HumanMeningesDev_Neural.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Neural.agg.loom) |
-| Neural_crest | [HumanMeningesDev_Neural_crest.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Neural_crest.loom) | [HumanMeningesDev_Neural_crest.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Neural_crest.agg.loom) |
-| Fibroblasts | [HumanMeningesDev_Fibroblasts.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Fibroblasts.loom) |[HumanMeningesDev_Fibroblasts.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Fibroblasts.agg.loom) |
+| Individual cells | Aggregated by cluster | Cell type |
+| ---------------- | --------------------- | --------- |
+| [HumanMeningesDev_All_cells.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_All_cells.loom) | [HumanMeningesDev_All_cells.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_All_cells.agg.loom) | Complete dataset |
+| [HumanMeningesDev_Erythropoietic.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Erythropoietic.loom) | [HumanMeningesDev_Erythropoietic.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Erythropoietic.agg.loom) | Erythropoietic |
+| [HumanMeningesDev_Immune.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Immune.loom) | [HumanMeningesDev_Immune.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Immune.agg.loom) | Immune |
+| [HumanMeningesDev_Vascular_endothelial.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Vascular_endothelial.loom) | [HumanMeningesDev_Vascular_endothelial.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Vascular_endothelial.agg.loom) | Vascular endothelial |
+| [HumanMeningesDev_Vascular_perivascular.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Vascular_perivascular.loom) |[HumanMeningesDev_Vascular_perivascular.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Vascular_perivascular.agg.loom) | Vascular perivascular |
+| [HumanMeningesDev_Neural.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Neural.loom) | [HumanMeningesDev_Neural.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Neural.agg.loom) | Neural |
+| [HumanMeningesDev_Neural_crest.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Neural_crest.loom) | [HumanMeningesDev_Neural_crest.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Neural_crest.agg.loom) | Neural crest |
+| [HumanMeningesDev_Fibroblasts.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Fibroblasts.loom) |[HumanMeningesDev_Fibroblasts.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Fibroblasts.agg.loom) | Fibroblasts |
 
 ## Xenium spatial transcriptomics data:
 
@@ -45,15 +45,15 @@ For a description of the loom file format see [loompy.org](https://loompy.org)
 
 ## Additional files from our external datasets used in the Jupyter notebooks:
 
-| Loom file | Content | Source |
+| File | Content | Source |
 | --------- | ------- | ------ |
-| | brain dev endothelial cells, Braun et al. (2023) |
-| | human adult fibroblasts, Siletti et al. (2023) |
-| [2020Pool_FibroblastVascular_Fibroblast.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/2020Pool_FibroblastVascular_Fibroblast.loom) | Developing mouse fibroblasts, La Manno et al. (2021) | [mouse development project](http://mousebrain.org/development/) |
+| [BrainDev_Vascular_Endo_Clean_FB_copy.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/BrainDev_Vascular_Endo_Clean_FB_copy.loom) | Human developing brain endothelial cells  | [Braun et al. (2023)](https://github.com/linnarsson-lab/developing-human-brain) |
+| [HumanAdult_harmony_B_H_Clean.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanAdult_harmony_B_H_Clean.loom) | Human adult brain fibroblasts | [Siletti et al. (2023)](https://github.com/linnarsson-lab/adult-human-brain) |
+| [2020Pool_FibroblastVascular_Fibroblast.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/2020Pool_FibroblastVascular_Fibroblast.loom) | Mouse developing brain fibroblasts | [La Manno et al. (2021)](http://mousebrain.org/development/) |
+| [HumanAdult_Recombined3Clean2_C_FBPC_35topics_model.bin](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanAdult_Recombined3Clean2_C_FBPC_35topics_model.bin) | Topic models from human adult brain data | [Siletti et al. (2023)](https://github.com/linnarsson-lab/adult-human-brain) |
+| [HumanAdult_Recombined3Clean2_C_FBPC_35topics_cells.txt](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanAdult_Recombined3Clean2_C_FBPC_35topics_cells.txt) | Cell list for the topic models | [Siletti et al. (2023)](https://github.com/linnarsson-lab/adult-human-brain) |
 
-Topic model
-
-## Single cell RNA-seq of meningiomas from Choudhury et al. (2022), processed with Cytograph pipeline:
+## Single cell RNA-seq of meningiomas from Choudhury et al. (2022), processed with the cytograph pipeline:
 
 | Meningioma | individual cells | Aggregated by cluster |
 | ---------- | --------- | --------------------- |
