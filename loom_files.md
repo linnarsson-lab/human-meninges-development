@@ -51,11 +51,14 @@ Files used by the Jupyter notebooks:
 | [adata_dev_meninges_he27_pcw6_final_clusters_EE_dev_HE27a.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/adata_dev_meninges_he27_pcw6_final_clusters_EE_dev_HE27a.loom) | |
 | [adata_dev_meninges_he24_pcw9_final_clusters_EE_dev_HE24-Men.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/adata_dev_meninges_he24_pcw9_final_clusters_EE_dev_HE24-Men.loom) | |
 
-Additional files from external datasets used by the Jupyter notebooks:
+Additional files from our external datasets used by the Jupyter notebooks:
 
 | Loom file | Content | Source |
 | --------- | ------- | ------ |
-| [/proj/meninges/OLD_REF_NoPOISS/FINAL_ANNOTATED/240109_all_Var_QC_BC/data/Recombined3Clean2BC.loom](/proj/meninges/OLD_REF_NoPOISS/FINAL_ANNOTATED/240109_all_Var_QC_BC/data/Recombined3Clean2BC.loom) | | [adult human project](https://github.com/linnarsson-lab/adult-human-brain) |
+| [Recombined3Clean2BC.loom](/proj/meninges/OLD_REF_NoPOISS/FINAL_ANNOTATED/240109_all_Var_QC_BC/data/Recombined3Clean2BC.loom) | | [adult human project](https://github.com/linnarsson-lab/adult-human-brain) |
+| [Recombined3Clean2_C_FBPC.loom](Recombined3Clean2_C_FBPC.loom) | Fibroblasts and pericytes | [adult human project](https://github.com/linnarsson-lab/adult-human-brain) |
 | [Recombined3Clean2_FB_C_Layerslineage_Age910_Age10_C_C.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Recombined3Clean2_FB_C_Layerslineage_Age910_Age10_C_C.loom) | | [adult human project](https://github.com/linnarsson-lab/adult-human-brain) |
-| [Recombined3Clean2_FB_C_Layerslineage_Age56_Age6.loom](Recombined3Clean2_FB_C_Layerslineage_Age56_Age6.loom) | | [adult human project](https://github.com/linnarsson-lab/adult-human-brain) |
-| [Recombined3Clean2_FB_C_Layerslineage_Age1213_Age13_C.loom](Recombined3Clean2_FB_C_Layerslineage_Age1213_Age13_C.loom) | | [adult human project](https://github.com/linnarsson-lab/adult-human-brain) |
+| [Recombined3Clean2_FB_C_Layerslineage_Age56_Age6.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Recombined3Clean2_FB_C_Layerslineage_Age56_Age6.loom) | | [adult human project](https://github.com/linnarsson-lab/adult-human-brain) |
+| [Recombined3Clean2_FB_C_Layerslineage_Age1213_Age13_C.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Recombined3Clean2_FB_C_Layerslineage_Age1213_Age13_C.loom) | | [adult human project](https://github.com/linnarsson-lab/adult-human-brain) |
+| [2020Pool_FibroblastVascular_Fibroblast.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/2020Pool_FibroblastVascular_Fibroblast.loom) | Developing mouse fibroblasts | [mouse development project](http://mousebrain.org/development/) |
+
