@@ -55,17 +55,20 @@ For a description of the loom file format see [loompy.org](https://loompy.org)
 
 ## Single cell RNA-seq of meningiomas from Choudhury et al. (2022), processed with the cytograph pipeline:
 
-| Meningioma | individual cells | Aggregated by cluster |
-| ---------- | --------- | --------------------- |
-| MSC1       | [Meningioma_MSC1.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Meningioma_MSC1.loom) | [Meningioma_MSC1.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC1.agg.loom) | 
-| MSC2       | [Meningioma_MSC2.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Meningioma_MSC2.loom) | [Meningioma_MSC2.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC2.agg.loom) |
-| MSC3       | [Meningioma_MSC3.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Meningioma_MSC3.loom) | [Meningioma_MSC3.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC3.agg.loom) |
-| MSC4       | [Meningioma_MSC4.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Meningioma_MSC4.loom) | [Meningioma_MSC4.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC4.agg.loom) |
-| MSC5       | [Meningioma_MSC5.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Meningioma_MSC5.loom) | [Meningioma_MSC5.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC5.agg.loom) |
-| MSC6       | [Meningioma_MSC6.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Meningioma_MSC6.loom) | [Meningioma_MSC6.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC6.agg.loom) |
-| Subset of tumour cells | [Meningioma_FB.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Meningioma_FB.loom) | [Meningioma_FB.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_FB.agg.loom) |
+| Individual cells | Aggregated by cluster | Meningioma |
+| --------- | --------------------- | ---------- |
+| [Meningioma_MSC1.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Meningioma_MSC1.loom) | [Meningioma_MSC1.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC1.agg.loom) | MSC1       |
+| [Meningioma_MSC2.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Meningioma_MSC2.loom) | [Meningioma_MSC2.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC2.agg.loom) | MSC2       |
+| [Meningioma_MSC3.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Meningioma_MSC3.loom) | [Meningioma_MSC3.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC3.agg.loom) | MSC3       |
+| [Meningioma_MSC4.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Meningioma_MSC4.loom) | [Meningioma_MSC4.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC4.agg.loom) | MSC4       |
+| [Meningioma_MSC5.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Meningioma_MSC5.loom) | [Meningioma_MSC5.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC5.agg.loom) | MSC5       |
+| [Meningioma_MSC6.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Meningioma_MSC6.loom) | [Meningioma_MSC6.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_MSC6.agg.loom) | MSC6       |
+| [Meningioma_FB.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Meningioma_FB.loom) | [Meningioma_FB.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/Meningioma_FB.agg.loom) | Subset of tumour cells |
 
 ## Additional files from Choudhury et al. (2022)
 
-[Choudhury_meningioma.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Choudhury_meningioma.loom)
-[Choudhury_Mxxx_Classes.csv](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Choudhury_Mxxx_Classes.csv)
+| File | Content |
+| ---- | ------- |
+| [Choudhury_meningioma.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Choudhury_meningioma.loom) | Bulk sequencing |
+| [Choudhury_Mxxx_Classes.csv](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Choudhury_Mxxx_Classes.csv) | Tumour classification |
+
