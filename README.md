@@ -29,4 +29,4 @@ BAM files will be available from the European Genome/Phenome Archive (https://eg
 
 - Clustering was performed using the cytograph-dev flavour of cytograph. This is the version used for our adult human brain project. Its installation and usage are described [here](https://github.com/linnarsson-lab/adult-human-brain/tree/main/cytograph). 
 - [Jupyter](https://jupyter.org/) notebooks used to make figures are available [here](notebooks). The notebooks also import from cytograph-dev. (cytograph-shoji will *not* work).
-
+- Jupyter notebooks used for Xenium data processing are found [here](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Xenium_processing.zip).
