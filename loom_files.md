@@ -35,13 +35,13 @@ For a description of the loom file format see [loompy.org](https://loompy.org)
 | Loom file | Content |
 | --------- | ------- |
 | [Recombined3Clean2_C_FBPC.loom](Recombined3Clean2_C_FBPC.loom) | scRNA-seq subset of fibroblasts and pericytes |
-| [Recombined3Clean2_FB_C_Layerslineage_Age910_Age10_C_C.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Recombined3Clean2_FB_C_Layerslineage_Age910_Age10_C_C.loom) | scRNA-seq subset of PCW 10 fibroblasts |
 | [Recombined3Clean2_FB_C_Layerslineage_Age56_Age6.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Recombined3Clean2_FB_C_Layerslineage_Age56_Age6.loom) | scRNA-seq subset of PCW 6 fibroblasts |
+| [Recombined3Clean2_FB_C_Layerslineage_Age910_Age10_C_C.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Recombined3Clean2_FB_C_Layerslineage_Age910_Age10_C_C.loom) | scRNA-seq subset of PCW 10 fibroblasts |
 | [Recombined3Clean2_FB_C_Layerslineage_Age1213_Age13_C.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Recombined3Clean2_FB_C_Layerslineage_Age1213_Age13_C.loom) | scRNA-seq subset of PCW 13 fibroblasts | 
 | [Xenium_he27_pcw6_final_clusters_EE_dev_HE27a.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Xenium_he27_pcw6_final_clusters_EE_dev_HE27a.loom) | Xenium data PCW 6 head, section a |
 | [Xenium_he24_pcw9_final_clusters_EE_dev_HE24-Men.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Xenium_he24_pcw9_final_clusters_EE_dev_HE24-Men.loom) | Xenium data PCW 9 head, section "Men" (whole head) |
-| [Xenium_with10xclusters_he24_pcw9_mesenchymal.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Xenium_with10xclusters_he24_pcw9_mesenchymal.loom) | Xenium data for subset of mesenchymal cells of PCW 9 head |
-| [Xenium_with10xclusters_he24_pcw6_mesenchymal.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Xenium_with10xclusters_he24_pcw6_mesenchymal.loom) | Xenium data for subset of mesenchymal cells of PCW 6 head |
+| [Xenium_with10xclusters_he24_pcw6_mesenchymal.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Xenium_with10xclusters_he24_pcw6_mesenchymal.loom) | Xenium data PCW 6 head, subset of mesenchymal cells |
+| [Xenium_with10xclusters_he24_pcw9_mesenchymal.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Xenium_with10xclusters_he24_pcw9_mesenchymal.loom) | Xenium data PCW 9 head, subset of mesenchymal cells |
 
 ## Additional files from our external datasets used in the Jupyter notebooks:
 
