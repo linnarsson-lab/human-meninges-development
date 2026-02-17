@@ -15,7 +15,7 @@ Visualizations of the complete dataset, as well as cell type specific subsets ("
 
 - BAM files will be available from the European Genome/Phenome Archive (https://ega-archive.org/) under accession number TBA. 
 
-#### scRNA-seq expression matrices
+#### Expression matrices (scRNA-seq and spatial data)
 
 - Complete count matrices (gene x cell counts) for the developing meninges and meningiomas are available as loom files [here](loom_files.md).
 - The datasets can also be downloaded as .h5ad files from the browser: [CELLxGENE](https://cellxgene.cziscience.com/collections/7d66d871-091f-4602-9f42-85f86d2853e0). 
