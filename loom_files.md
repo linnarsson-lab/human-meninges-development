@@ -20,7 +20,7 @@ For a description of the loom file format see [loompy.org](https://loompy.org)
 
 | Loom file | Content |
 | ------ | --------- |
-| [HumanMeningesDev_Xenium_pcw9_final_clusters_EE_dev_HE27.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Xenium_pcw6_final_clusters_EE_dev_HE27.loom) | PCW 6 head, sections a & b | 
+| [HumanMeningesDev_Xenium_pcw6_final_clusters_EE_dev_HE27.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Xenium_pcw6_final_clusters_EE_dev_HE27.loom) | PCW 6 head, sections a & b | 
 | [HumanMeningesDev_Xenium_pcw9_final_clusters_EE_dev_HE24-Men.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Xenium_pcw9_final_clusters_EE_dev_HE24-Men.loom) | PCW 9 head, sections "Men" (whole head), "ChP-a" & "ChP-b" |
 | [Xenium_meningioma_M46.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Xenium_meningioma_M46.loom) | Meningioma M46 |
 | [Xenium_meningioma_M47.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Xenium_meningioma_M47.loom) | Meningioma  M47|
