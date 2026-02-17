@@ -14,6 +14,7 @@ For a description of the loom file format see [loompy.org](https://loompy.org)
 | [HumanMeningesDev_Neural.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Neural.loom) | [HumanMeningesDev_Neural.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Neural.agg.loom) | Neural |
 | [HumanMeningesDev_Neural_crest.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Neural_crest.loom) | [HumanMeningesDev_Neural_crest.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Neural_crest.agg.loom) | Neural crest |
 | [HumanMeningesDev_Fibroblasts.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Fibroblasts.loom) |[HumanMeningesDev_Fibroblasts.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Fibroblasts.agg.loom) | Fibroblasts |
+| [Recombined3Clean2_C_FBPC.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Recombined3Clean2_C_FBPC.loom) | - | Data used for topic modelling |
 
 ## Xenium spatial transcriptomics data:
 
