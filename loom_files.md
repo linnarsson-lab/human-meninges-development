@@ -35,7 +35,7 @@ For a description of the loom file format see [loompy.org](https://loompy.org)
 
 | Loom file | Content |
 | --------- | ------- |
-| [Recombined3Clean2_C_FBPC.loom](Recombined3Clean2_C_FBPC.loom) | scRNA-seq subset of fibroblasts and pericytes |
+| [Recombined3Clean2_C_FBPC.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Recombined3Clean2_C_FBPC.loom) | scRNA-seq subset of fibroblasts and pericytes |
 | [Recombined3Clean2_FB_C_Layerslineage_Age56_Age6.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Recombined3Clean2_FB_C_Layerslineage_Age56_Age6.loom) | scRNA-seq subset of PCW 6 fibroblasts |
 | [Recombined3Clean2_FB_C_Layerslineage_Age910_Age10_C_C.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Recombined3Clean2_FB_C_Layerslineage_Age910_Age10_C_C.loom) | scRNA-seq subset of PCW 10 fibroblasts |
 | [Recombined3Clean2_FB_C_Layerslineage_Age1213_Age13_C.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Recombined3Clean2_FB_C_Layerslineage_Age1213_Age13_C.loom) | scRNA-seq subset of PCW 13 fibroblasts | 
