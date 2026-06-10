@@ -14,7 +14,7 @@ For a description of the loom file format see [loompy.org](https://loompy.org)
 | [HumanMeningesDev_Neural.loom](https://www.dropbox.com/scl/fi/nmqwp4p5bdihpnkgstdup/HumanMeningesDev_Neural.loom?rlkey=m30031wzbjbclp1vjjunpwfoe&st=83wtmk5c&dl=1) | [HumanMeningesDev_Neural.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Neural.agg.loom) | Neural |
 | [HumanMeningesDev_Neural_crest.loom](https://www.dropbox.com/scl/fi/mazt81nimqyjhz5dm5crp/HumanMeningesDev_Neural_crest.loom?rlkey=d7jcq4b47a9y12b7nh44fwgqx&st=y35lmdaa&dl=1) | [HumanMeningesDev_Neural_crest.agg.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Neural_crest.agg.loom) | Neural crest |
 | [HumanMeningesDev_Fibroblasts.loom.gz](https://www.dropbox.com/scl/fi/qu3lycen8l9ze7n2k0ygj/HumanMeningesDev_Fibroblasts.loom.gz?rlkey=4b8ygwrhpx2xtirmwudak9n22&st=s09mvcfa&dl=1) |[HumanMeningesDev_Fibroblasts.agg.loom](https://www.dropbox.com/scl/fi/tnkm7vb9cy7jqgskj04i9/HumanMeningesDev_Fibroblasts.agg.loom?rlkey=vzpkua7rcme1r5m3od2iysfuu&st=0mioihq8&dl=1) | Fibroblasts |
-| [Recombined3Clean2_C_FBPC.loom]([https://storage.googleapis.com/linnarsson-lab-loom/meninges/Recombined3Clean2_C_FBPC.loom](https://www.dropbox.com/scl/fi/z4ygjclaqgr4m60mefj22/Recombined3Clean2_C_FBPC.loom.gz?rlkey=jfdxpfsi8v2oiwadn1b78mgqy&st=b1f9uppf&dl=1)) | - | Data used for topic modelling |
+| [Recombined3Clean2_C_FBPC.loom](https://www.dropbox.com/scl/fi/z4ygjclaqgr4m60mefj22/Recombined3Clean2_C_FBPC.loom.gz?rlkey=jfdxpfsi8v2oiwadn1b78mgqy&st=b1f9uppf&dl=1) | - | Data used for topic modelling |
 
 ## Xenium spatial transcriptomics data:
 
@@ -22,7 +22,7 @@ For a description of the loom file format see [loompy.org](https://loompy.org)
 | ------ | --------- |
 | [HumanMeningesDev_Xenium_pcw6_final_clusters_EE_dev_HE27.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Xenium_pcw6_final_clusters_EE_dev_HE27.loom) | PCW 6 head, sections a & b | 
 | [HumanMeningesDev_Xenium_pcw9_final_clusters_EE_dev_HE24-Men.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Xenium_pcw9_final_clusters_EE_dev_HE24-Men.loom) | PCW 9 head, sections "Men" (whole head), "ChP-a" & "ChP-b" |
-| [Xenium_meningioma_M46.loom]([https://storage.googleapis.com/linnarsson-lab-loom/meninges/Xenium_meningioma_M46.loom](https://www.dropbox.com/scl/fi/gszn1fvnmkjbutmjfzhww/Xenium_meningioma_M46.loom?rlkey=jkc9hqvc15z07a7qkfergfb35&st=s5z8k2di&dl=1)) | Meningioma M46 |
+| [Xenium_meningioma_M46.loom](https://www.dropbox.com/scl/fi/gszn1fvnmkjbutmjfzhww/Xenium_meningioma_M46.loom?rlkey=jkc9hqvc15z07a7qkfergfb35&st=s5z8k2di&dl=1) | Meningioma M46 |
 | [Xenium_meningioma_M47.loom](https://www.dropbox.com/scl/fi/vrr6yab3u212eima59s2h/Xenium_meningioma_M47.loom?rlkey=5je8ifvhl90lcte4lhzqppxwo&st=4ojk40up&dl=1) | Meningioma  M47|
 | [Xenium_meningioma_M73.loom](https://www.dropbox.com/scl/fi/hfecjpc1fxq09rffmkz38/Xenium_meningioma_M73.loom?rlkey=qq52t3c9vm43oz0l9aon2koi3&st=8uvwb73p&dl=1) | Meningioma  M73 region 1, sections a & b|
 | [Xenium_meningioma_M73_2.loom](https://www.dropbox.com/scl/fi/yarh2x256jniqwxn8rrb2/Xenium_meningioma_M73_2.loom?rlkey=8ajylwv63fagx5l8uq9hp7mbx&st=iq0aatpn&dl=1) | Meningioma  M73 region 2|
