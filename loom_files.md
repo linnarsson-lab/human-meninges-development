@@ -70,6 +70,6 @@ For a description of the loom file format see [loompy.org](https://loompy.org)
 
 | File | Content |
 | ---- | ------- |
-| [Choudhury_meningioma.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Choudhury_meningioma.loom) | Bulk sequencing |
+| [Choudhury_meningioma.loom](https://www.dropbox.com/scl/fi/w0vkhi1y2bmcq0mx6rt78/Choudhury_meningioma.loom?rlkey=mf411d3fw9lxshr9y5pnx6qst&st=akq6zwbr&dl=1) | Bulk sequencing |
 | [Choudhury_Mxxx_Classes.csv](https://storage.googleapis.com/linnarsson-lab-loom/meninges/Choudhury_Mxxx_Classes.csv) | Tumour classification |
 
