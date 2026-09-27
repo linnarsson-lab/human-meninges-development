@@ -20,8 +20,8 @@ For a description of the loom file format see [loompy.org](https://loompy.org)
 
 | Loom file | Content |
 | ------ | --------- |
-| [HumanMeningesDev_Xenium_pcw6_final_clusters_EE_dev_HE27.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Xenium_pcw6_final_clusters_EE_dev_HE27.loom) | PCW 6 head, sections a & b | 
-| [HumanMeningesDev_Xenium_pcw9_final_clusters_EE_dev_HE24-Men.loom](https://storage.googleapis.com/linnarsson-lab-loom/meninges/HumanMeningesDev_Xenium_pcw9_final_clusters_EE_dev_HE24-Men.loom) | PCW 9 head, sections "Men" (whole head), "ChP-a" & "ChP-b" |
+| [HumanMeningesDev_Xenium_pcw6_final_clusters_EE_dev_HE27.loom](https://www.dropbox.com/scl/fi/jygy148s5utq6lii930w3/HumanMeningesDev_Xenium_pcw6_final_clusters_EE_dev_HE27.loom?rlkey=fnjk67ejt1i66t52ra3g1tblq&st=c1a5ckm5&dl=1) | PCW 6 head, sections a & b | 
+| [HumanMeningesDev_Xenium_pcw9_final_clusters_EE_dev_HE24-Men.loom](https://www.dropbox.com/scl/fi/2u211p17bumiun3y0bugp/HumanMeningesDev_Xenium_pcw9_final_clusters_EE_dev_HE24-Men.loom?rlkey=sa7preb3joe2et9swbhpor79g&st=mneqzj59&dl=1) | PCW 9 head, sections "Men" (whole head), "ChP-a" & "ChP-b" |
 | [Xenium_meningioma_M46.loom](https://www.dropbox.com/scl/fi/gszn1fvnmkjbutmjfzhww/Xenium_meningioma_M46.loom?rlkey=jkc9hqvc15z07a7qkfergfb35&st=s5z8k2di&dl=1) | Meningioma M46 |
 | [Xenium_meningioma_M47.loom](https://www.dropbox.com/scl/fi/vrr6yab3u212eima59s2h/Xenium_meningioma_M47.loom?rlkey=5je8ifvhl90lcte4lhzqppxwo&st=4ojk40up&dl=1) | Meningioma  M47|
 | [Xenium_meningioma_M73.loom](https://www.dropbox.com/scl/fi/hfecjpc1fxq09rffmkz38/Xenium_meningioma_M73.loom?rlkey=qq52t3c9vm43oz0l9aon2koi3&st=8uvwb73p&dl=1) | Meningioma  M73 region 1, sections a & b|
